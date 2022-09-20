@@ -1,0 +1,15 @@
+{
+  "name": "avaliacao-nodejs",
+  "version": "1.0.0",
+  "description": "Avaliação para programado NodeJS",
+  "main": "index.js",
+  "repository": "https://github.com/paliari-ti/avaliacao-nodejs",
+  "author": "Paliari Engenharia de Software",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
